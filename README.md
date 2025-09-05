@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharukaprabhashana
-- 👀 I’m an 2nd year AI undergraduate at University of Moratuwa 
+- 👀 I’m an 3nd year AI undergraduate at University of Moratuwa 
 - 🌱 Capable of progarmming with C, Python, Javascript, C++
 - 💞️ I’m looking to collaborate on open source AI projects
 - 📫 DM me mt.prabhashana@gmail.com
